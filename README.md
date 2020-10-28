@@ -2,8 +2,9 @@
 Visulalizations for deaths due to covid pandamic.
 1. Covid analysis based on Levitt matrix 
 Levitt, who won the 2013 Nobel Prize in chemistry, earlier predicted about the epidemic in China that it would get through the worst of its devastating outbreak before several other health experts predicted.
-Let's check for India data
 
+Let's check for India data
+## At end of Jan 2021 pandamic will end !!!
 # Conclusion :
     * H(t) is 1.001 that means pandamic is over as per lavitt's matrix statement. 
     * Matrix Stated: H(t) will reach at 1.001 when x(Days) will be around 185 days but even after 280 days it did not reach there.
