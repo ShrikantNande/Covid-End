@@ -4,7 +4,7 @@ Method used by Bhaskaran Raman :
    Levitt’s Metric: In the data presented, Levitt defines H(t) = X(t)/X(t-1), where X(t) is the cumulative count until day t. The count could be of deaths or cases.
 Bhaskaran Raman calculated the H(t) metric on Covid-19 deaths rather than cases. There are certain reasons for not selecting ‘Number of cases’ as a metric. First reason, it depends on testing capacity which varies temporally. It also depends on people’s access to tests, which depends upon many policies like are private tests allowed, are tests without prescription allowed, do people have transportation to go to test center, etc. which are all time variant. To add to this, number of tests also depends on social acceptance of tests, which is also highly variable. Also finally, what we most care about is the number of deaths, rather than number of cases So we plot the plots graphs using this information which are as given in the comparison.
 
-[[https://github.com/ShrikantNande/Covid-End/blob/main/india.png]]
+![India](https://github.com/ShrikantNande/Covid-End/blob/main/india.png)
 
 Let's check for India data
 ## At end of Jan 2021 pandamic will end !!!
