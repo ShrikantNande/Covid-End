@@ -6,8 +6,8 @@ Bhaskaran Raman calculated the H(t) metric on Covid-19 deaths rather than cases.
 
 ![India](https://github.com/ShrikantNande/Covid-End/blob/main/india.png "Title")
 
-Let's check for India data
-## At end of Jan 2021 pandamic will end !!!
+According to Bhaskaran’s predictions in fig 1(A), H(t) will reach 1.001 when x(days) will be around 185 days. But, according to our predictions using same model H(t) does not reach to 1.001 as shown in fig 1 (B), it will reach to 1.001 when x(days) will be around 329 days. Even root mean square error value shows huge variations for his predictions, root mean square error is 0.0896 and in predictions, it is 0.94.
+
 # Conclusion :
     * H(t) is 1.001 that means pandamic is over as per lavitt's matrix statement. 
     * Matrix Stated: H(t) will reach at 1.001 when x(Days) will be around 185 days but even after 280 days it did not reach there.
@@ -16,3 +16,5 @@ Let's check for India data
     * Due several outlier's such as lockdown open and other's Levitt’s Metric results show's huge variations.
     * It was observed that H(t) falls linearly with x(Days) But doesnot follow tight linearity.
     * Evan r^2 show's huge variation as for livitt matrix it was around 0.0896 and in this observation it is around 0.94.
+
+## At end of Jan 2021 pandamic will end !!!
